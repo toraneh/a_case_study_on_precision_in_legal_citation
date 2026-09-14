@@ -6,7 +6,7 @@ date: 14 September 2026
 
 ## Abstract
 
-Legal scholarship depends on accurate citation to ensure the integrity and verifiability of judicial references. This case study examines a citation inconsistency in the peer-reviewed article "Is Section 34(2) of the Civil Procedure Code Equitable?" (Karandikar 2022), which gives the decision date of *Gopal Vitthalrao Bamankar v. Gajanan Vitthalrao Bamankar* as 5 July 2028 rather than the correct date of 5 July 2018 according to authoritative legal repositories. The discrepancy is limited to the year of the judgment. Although minor, such inconsistencies illustrate the importance of systematic citation checking in legal scholarship.
+Legal scholarship depends on accurate citation to ensure the integrity and verifiability of judicial references. This case study examines a citation inconsistency in the peer-reviewed article "Is Section 34(2) of the Civil Procedure Code Equitable?" (Karandikar 2022), which gives the decision date of *Gopal Vitthalrao Bamankar v. Gajanan Vitthalrao Bamankar* as 5 July 2028 rather than the correct date of 5 July 2018 according to an authoritative legal repository. The discrepancy is limited to the year of the judgment. Although minor, such inconsistencies illustrate the importance of systematic citation checking in legal scholarship.
 
 ## Introduction
 
