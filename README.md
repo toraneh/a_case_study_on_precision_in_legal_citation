@@ -1,14 +1,14 @@
 # A Case Study on Precision in Legal Citation
 
-An examination of citation accuracy in legal scholarship, with focus on the importance of precise judicial references.
+Respectfully, an examination of citation accuracy in legal scholarship, with focus on the importance of precise judicial references.
 
 ## Overview
 
-This case study investigates a citation inconsistency identified in legal scholarship and demonstrates why precision in case citations—particularly decision dates—is essential to scholarly integrity and legal research reproducibility. The analysis illustrates how citation errors can propagate through the scholarly record and the value of careful archival practice.
+Respectfully, this case study investigates a citation inconsistency identified in legal scholarship and demonstrates why precision in case citations—particularly decision dates—is essential to scholarly integrity and legal research reproducibility.
 
 ## Contents
 
-- **paper.md** – Full case study in Markdown format
+- **paper.md** – Markdown version of the paper
 - **paper.pdf** – PDF version of the paper
 - **LICENSE** – MIT License
 
