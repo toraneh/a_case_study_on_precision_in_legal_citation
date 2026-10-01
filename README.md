@@ -1,10 +1,10 @@
 # A Case Study on Precision in Legal Citation
 
-Respectfully, an examination of citation accuracy in legal scholarship, with focus on the importance of precise judicial references.
+An examination of citation accuracy in legal scholarship, with focus on the importance of precise judicial references.
 
 ## Overview
 
-This case study respectfully investigates a citation inconsistency identified in legal scholarship and demonstrates why precision in case citations—particularly decision dates—is essential to the integrity and verifiability of academic legal work.
+This case study investigates a citation inconsistency identified in legal scholarship and demonstrates why precision in case citations—particularly decision dates—is essential to scholarly integrity and legal research reproducibility. The analysis illustrates how citation errors can propagate through the scholarly record and the value of careful archival practice.
 
 ## Contents
 
@@ -14,7 +14,7 @@ This case study respectfully investigates a citation inconsistency identified in
 
 ## Citation
 
-> Torane, H. "A Case Study on Precision in Legal Citation". Preprint, Zenodo, September 14, 2026. https://doi.org/10.5281/zenodo.22755990
+> Torane, H. "A Case Study on Precision in Legal Citation". *Preprint*. Zenodo, September 14, 2026. https://doi.org/10.5281/zenodo.22755990
 
 ## License
 
