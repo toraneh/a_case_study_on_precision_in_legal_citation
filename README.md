@@ -1,6 +1,6 @@
 # A Case Study on Precision in Legal Citation
 
-Respectfully, an examination of citation accuracy in legal scholarship, with focus on the importance of precise judicial references.
+Respectfully, a case study.
 
 ## Citation
 
